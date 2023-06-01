@@ -1,0 +1,16 @@
+.errMsgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.errMsg {
+  color: tomato;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: rgba(74, 74, 74, 0.5);
+}
